@@ -12,4 +12,8 @@ Uma landing page do Starbucks feita para reforçar os meus conhecimentos em dese
 - Animations - keyframe css
 - Codigo limpo
 
+## Preview
+
+- Link para ver o site: [Link](https://jonaswgdev.github.io/landing-page-starbucks/)
+
 ![](./assets/capture.png)
